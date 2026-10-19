@@ -1,0 +1,8 @@
+{
+  "name": "AI Mirror — Personalized Learning & Mentorship",
+  "description": "AI-powered personalized learning and mentorship platform for students from Class 1 to college with cognitive reflection, strengths, learning gap analysis, and tailored study pathways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
